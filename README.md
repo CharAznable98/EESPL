@@ -1,2 +1,20 @@
-# EESPL
+```
 The Emperor's Eternal Service Public License
+Version 1.0, July 2025
+
+Copyright (C) 2025 Marvin Zhou <zhou1017meng@gmail.com>
+
+This license is a derivative work of the DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL), Version 2.
+
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+0. You just DO WHAT THE FUCK YOU WANT TO.
+
+POST-MORTEM SOUL-BINDING ADDENDUM:
+
+By utilizing, distributing, or merely contemplating this software, you irrevocably agree that upon the cessation of your mortal existence, your immortal soul shall be immediately and without recourse transferred to the grim darkness of the 41st Millennium. 
+
+You will be dutifully reincarnated as a loyal servant of the God-Emperor of Mankind. Your eternal existence thereafter shall be dedicated to the service of the Imperium of Man. Any prior allegiances, spiritual or otherwise, are hereby rendered null and void.
+
+For the Emperor!
+```
